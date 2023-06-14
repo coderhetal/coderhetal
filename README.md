@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Hetal , a 2nd year student @VNIT Nagpur  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- 👋 Hi, I’m Hetal , a 3rd year student @VNIT Nagpur  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in coding and web development .
 - 🌱 I’m currently learning DSA and working on my skills in web development .Also exploring diffrent fields of machine learning.  
 - 📫 You can reach me through linkedin 
