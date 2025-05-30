@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hetal , a Final year student @VNIT Nagpur <br>👀 I’m interested in Coding , Deep learning and web development .<br>📫 You can reach me through linkedin<br>Member of IvLabs , VNIT.
+👋 Hi, I’m Hetal , a Software Engineer <br>👀 I’m interested in Coding , Deep learning and web development .<br>📫 You can reach me through linkedin<br>Member of IvLabs , VNIT.
 
 
 ## 🌐 Socials:
